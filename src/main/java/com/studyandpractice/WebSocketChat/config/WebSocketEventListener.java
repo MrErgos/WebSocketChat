@@ -1,7 +1,7 @@
 package com.studyandpractice.WebSocketChat.config;
 
-import com.studyandpractice.WebSocketChat.chat.ChatMessage;
-import com.studyandpractice.WebSocketChat.chat.MessageType;
+import com.studyandpractice.WebSocketChat.chat.model.ChatMessage;
+import com.studyandpractice.WebSocketChat.chat.model.MessageType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;
